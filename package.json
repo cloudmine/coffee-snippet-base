@@ -4,24 +4,24 @@
   "author": "CloudMine",
   "license": "MIT",
   "description": "A starter Node Snippet for CloudMine Snippets",
-  "main": "index.js",
+  "main": "coffee_bridge.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node coffee_bridge.js",
     "postinstall": "",
     "test": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloudmine/node-snippet-base.git"
+    "url": "https://github.com/cloudmine/coffee-snippet-base.git"
   },
   "keywords": [
     "CloudMine",
     "cloudmine"
   ],
   "bugs": {
-    "url": "https://github.com/cloudmine/node-snippet-base/issues"
+    "url": "https://github.com/cloudmine/coffee-snippet-base/issues"
   },
-  "homepage": "https://github.com/cloudmine/node-snippet-base",
+  "homepage": "https://github.com/cloudmine/coffee-snippet-base",
   "engines": {
     "node": "0.10.35",
     "npm": "2.5.0"
