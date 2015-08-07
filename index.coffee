@@ -10,8 +10,8 @@
 # read all snippets in a directory and set them to your `module.exports`.
 ###
 
-BasicSnippet = require './lib/basic_snippet'
-AsyncSnippet = require './lib/async_snippet'
+BasicSnippet = require './lib/basic'
+AsyncSnippet = require './lib/async'
 CloudMineNode = require 'cloudmine-servercode'
 # Require any other node module you want...
 
