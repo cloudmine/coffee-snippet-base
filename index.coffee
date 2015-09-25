@@ -28,6 +28,6 @@ module.exports = {
 ###
 # Start the CloudMine server.
 ###
-CloudMineNode.start module, './index.js', (err)->
+CloudMineNode.start module, './index', (err)->
   console.log 'Server Started?', err
 
